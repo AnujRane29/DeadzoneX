@@ -1,0 +1,4 @@
+Changes temporary, 
+added multplayer mode
+press 1 to enter lobby 
+press 2 to connect to local network players 
